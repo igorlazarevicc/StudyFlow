@@ -1,8 +1,9 @@
-using System.Configuration;
+﻿using System.Configuration;
 using System.Data;
 using System.Windows;
 
-namespace Study_Flow;
+namespace StudyFlow;
+
 /// <summary>
 /// Interaction logic for App.xaml
 /// </summary>
