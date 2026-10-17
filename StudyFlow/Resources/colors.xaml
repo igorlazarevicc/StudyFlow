@@ -8,7 +8,9 @@
 
     <!-- Akcent -->
     <SolidColorBrush x:Key="AccentBrush" Color="#0F9D8F"/>
-
+    <SolidColorBrush x:Key="AccentHoverBrush" Color="#0B8277"/>
+    <SolidColorBrush x:Key="AccentPressedBrush" Color="#086B62"/>
+    
     <!-- Tekst -->
     <SolidColorBrush x:Key="TextPrimaryBrush" Color="#111827"/>
     <SolidColorBrush x:Key="TextBodyBrush" Color="#374151"/>
