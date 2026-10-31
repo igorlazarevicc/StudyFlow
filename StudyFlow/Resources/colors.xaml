@@ -17,5 +17,6 @@
     <SolidColorBrush x:Key="TextSecondaryBrush" Color="#6B7280"/>
     <SolidColorBrush x:Key="TextOnDarkBrush" Color="#FFFFFF"/>
     <SolidColorBrush x:Key="SidebarTextBrush" Color="#D1D5DB"/>
+    <SolidColorBrush x:Key="SidebarHoverBrush" Color="#2B3744"/>
 
 </ResourceDictionary>
